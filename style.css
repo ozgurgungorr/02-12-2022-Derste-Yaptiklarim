@@ -1,0 +1,66 @@
+body{
+    background-color: blue;
+
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    background-color: rebeccapurple;
+    color:gray;
+    font-size: large;
+}
+
+
+ul li{
+    list-style:-type:none;
+}
+
+ul li:first-child{
+    background-color: red;
+    font-size: large;
+
+}
+
+ul li:last-child{
+    background-color: turquoise;
+    color:aliceblue;
+    font-size: large;
+}
+
+
+ul li:nth-child(odd){
+    background-color: brown;
+}
+
+
+.kose1{
+    border-radius: 20px;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    background: #ff6666;
+}
+
+/*İçi boş çerçeve*/
+
+ .kose2{
+     border-radius: 40px;
+     border: solid 10px;
+     border-color: #ff6666;
+     padding: 20px;
+     width: 200px;
+     height: 150px;
+ }
+
+
+ /*Arka plan blok */
+
+ .kose3{
+     border-radius: 40px;
+     background-
+     image:url(arkaplan.png);
+     padding:20px;
+     width:200px;
+     height: 150px;
+ }

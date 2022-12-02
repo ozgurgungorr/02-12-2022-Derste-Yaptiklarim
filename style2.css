@@ -1,0 +1,29 @@
+.kose1{
+    border-radius: 20px;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    background: #ff6666;
+}
+
+/*İçi boş çerçeve*/
+
+ .kose2{
+     border-radius: 50px;
+     border: solid 10px;
+     border-color: #ff6666;
+     padding: 20px;
+     width: 200px;
+     height: 150px;
+ }
+
+
+ /*Arka plan blok */
+
+ .kose3{
+     border-radius: 40px;
+    background-image: url("image/Adsız.png");
+     padding:20px;
+     width:200px;
+     height: 150px;
+ }

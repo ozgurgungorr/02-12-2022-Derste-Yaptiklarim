@@ -1,0 +1,35 @@
+div.sol_sutun{
+    background-color: turquoise;
+    width: 200;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    float: left;
+}
+
+div.orta_sutun{
+    background-color: turquoise;
+    width: 200;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    float: left
+}
+
+div.sag_sutun{
+    background-color: turquoise;
+    width: 200;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    float: left
+}
+
+div.footer{
+    background-color: red;
+    width: 1000px;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    clear: both;
+}
